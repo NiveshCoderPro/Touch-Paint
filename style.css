@@ -1,0 +1,15 @@
+#myCanvas {
+    background-color: white;
+    border-color:blue;
+    border-width:10px;
+    border-style:dashed;
+}
+h1 {
+    font-family: 'Product Sans';
+}
+
+body {
+    text-align: center;
+    background-image: url("ajaymom.png");
+ background-size:cover;
+}
